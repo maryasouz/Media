@@ -1,0 +1,17 @@
+body
+{
+    background: #d5e2e5;
+}
+
+input
+{
+    border-radius: 7px;
+    border-color: black;
+}
+
+button
+{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+}
